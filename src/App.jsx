@@ -173,7 +173,7 @@
 import React from "react";
 import { BrowserRouter, Routes, Route } from "react-router-dom";
 import Chatbot from "./chatBotApp";
-import Login from "./Login";
+import { Login } from "./Login";
 // import Register from "./Register";
 // import ProtectedRoute from "./protected";
 import Register from "./Register";
